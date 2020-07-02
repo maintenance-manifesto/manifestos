@@ -27,7 +27,3 @@ Although the `MAINTENANCE_MANIFESTO.md` also defines governing on the project, i
 ### `.github/FUNDING.yml`
 
 GitHub recently released their sponsoring initiative. This allows to project maintainers to seek sponsors and raise money. This can be for very specific goals, or to _keep things up and running_. The `FUNDING.yml` file aggregates the major open source sponsoring platforms.
-
-While funding is a fundamental part of 
-
-### Issue submission guidelines
